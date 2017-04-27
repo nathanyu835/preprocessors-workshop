@@ -172,7 +172,6 @@ And that's it! Feel free to take it one step further and use jQuery for the last
 
 ## And You're Done!
 At this point you should have ...
-- [ ] Set up flow
 - [ ] Started with CoffeeScript
 - [ ] Worked your way through the Tic-Tac-Toe game
 - [ ] Understand how these programs work the way they do!
